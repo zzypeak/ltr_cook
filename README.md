@@ -1,2 +1,2 @@
 # ltr_cook
-learning to rank , include lr, xgboost, 
+learning to rank , include lr, xgboost, FTRL
